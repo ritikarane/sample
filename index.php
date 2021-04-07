@@ -233,7 +233,7 @@
     		</div>
     	</div>
 
-    	<div class="col-md-11 mx-auto reservation">
+    	<!--<div class="col-md-11 mx-auto reservation">
     		<div class="row">
     			<div class="col-md-4 img-left wow animated fadeInLeft">
     				<img src="img/r_left.jpg" alt="img" class="img-fluid">
@@ -255,7 +255,7 @@
     				<img src="img/r_right.jpg" alt="img" class="img-fluid">
     			</div>
     		</div>
-    	</div>
+    	</div>-->
 
     	<div class="col-md-12 footer">
     		<div class="row">
